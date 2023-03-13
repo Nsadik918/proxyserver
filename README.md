@@ -1,5 +1,6 @@
 # Squid Proxy Installer
 
+ ssadik#124DF
  
 Auto install Squid 3 proxy on following linux OS.
 
