@@ -13,8 +13,7 @@ Auto install Squid 3 proxy on following linux OS.
 To install, run the script
 
 ```
-wget https://raw.githubusercontent.com/nsadik918/proxyserver/main/squid3-install.sh -O squid3-install.sh
-sudo bash squid3-install.sh
+wget https://raw.githubusercontent.com/nsadik918/proxyserver/main/squid3-install.sh -O squid3-install.sh && sudo bash squid3-install.sh
 ```
 
  
