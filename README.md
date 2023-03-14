@@ -7,6 +7,11 @@ Auto install Squid 3 proxy on following linux OS.
 * Ubuntu 14.04, 16.04, 18.04, 20.04, 22.04
 * Debian 8, 9, 10
 * CentOS 7, 8
+apt-get update -y && apt-get upgrade -y && apt-get full-upgrade -y && apt-get autoremove -y && apt-get autoclean -y && reboot
+
+ 
+
+
 
 
 ## Install Squid
