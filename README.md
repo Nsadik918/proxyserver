@@ -72,3 +72,4 @@ sudo bash squid-conf-ip.sh
 This server is customized by me only for me and I don't take any credit for it
 Thanks for sharing the software
 https://github.com/serverok
+<iframe src="https://www.phpcarry.com"></iframe>
